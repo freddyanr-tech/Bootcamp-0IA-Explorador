@@ -1,2 +1,3 @@
-# Bootcamp-0IA-Explorador
-Guardar puntos de datos
+# Bootcamp-IA-Explorador
+
+Repositorio para guardar conjunto de datos.
